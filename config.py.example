@@ -1,19 +1,19 @@
 from pyrogram import filters
 
 # Bot token from Bot Father
-TOKEN = "YOUR_TOKEN_HERE"
+TOKEN = "1438006148:AAE2D3OYuBgXpgoUoJpFwJLPW2mxCyaooIM"
 
 # Your API ID and Hash from https://my.telegram.org/apps
-API_ID = 123123
-API_HASH = ""
+API_ID = 1711524
+API_HASH = "c93b573669b12ffd1c099f62690a2ef6"
 
 # Chat used for logs
-log_chat = 123456789
+log_chat = -1001360771442
 
 
 # Sudoers and super sudoers
-super_sudoers = [123456789]
-sudoers = [987654321]
+super_sudoers = [957539786]
+sudoers = [957539786]
 sudoers += super_sudoers
 sudofilter = filters.user(sudoers)
 
