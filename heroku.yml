@@ -1,0 +1,10 @@
+build:
+
+  docker:
+
+    worker: Procfile
+
+run:
+
+  worker: python3 bot.py
+
