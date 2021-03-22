@@ -1,7 +1,7 @@
 from pyrogram import filters
 
 # Bot token from Bot Father
-TOKEN = "1438006148:AAE2D3OYuBgXpgoUoJpFwJLPW2mxCyaooIM"
+TOKEN = "1438006148:AAFxy62Yz4cHZfH_iz7mvMLgZVSlutxOZg4"
 
 # Your API ID and Hash from https://my.telegram.org/apps
 API_ID = 1711524
